@@ -1,0 +1,22 @@
+[
+  {
+    "name": "BadRequestError",
+    "code": 400,
+    "message": "Bad Request"
+  },
+  {
+    "name": "UnauthorizedError",
+    "code": 401,
+    "message": "Unauthorized"
+  },
+  {
+    "name": "NotFoundError",
+    "code": 404,
+    "message": "Not Found"
+  },
+  {
+    "name": "InternalServerError",
+    "code": 500,
+    "message": "Internal Server Error"
+  }
+]
